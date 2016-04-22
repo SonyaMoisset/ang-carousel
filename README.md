@@ -1,1 +1,1 @@
-# ang-carousel
+# CSS & ANGULAR2 Carousel
