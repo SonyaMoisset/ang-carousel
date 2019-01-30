@@ -14,7 +14,7 @@
     "es6-promise": "4.2.5",
     "es6-shim": "0.35.4",
     "reflect-metadata": "0.1.13",
-    "rxjs": "6.3.3",
+    "rxjs": "6.4.0",
     "zone.js": "0.8.29"
   },
   "devDependencies": {
