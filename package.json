@@ -18,7 +18,7 @@
     "zone.js": "0.8.29"
   },
   "devDependencies": {
-    "concurrently": "7.3.0",
+    "concurrently": "8.0.1",
     "lite-server": "2.4.0",
     "typescript": "5.0.2"
   }
